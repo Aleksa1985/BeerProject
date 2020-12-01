@@ -1,0 +1,85 @@
+[
+  {
+    "id": 100,
+    "name": "beer1",
+    "description": "description1",
+    "method": {
+      "mash_temp": [
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 10
+          },
+          "duration": "20"
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "name": "beer2",
+    "description": "description2",
+    "method": {
+      "mash_temp": [
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 11
+          },
+          "duration": "21"
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "beer3",
+    "description": "description3",
+    "method": {
+      "mash_temp": [
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 12
+          },
+          "duration": "22"
+        },
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 16
+          },
+          "duration": "30"
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "beer3",
+    "description": "description3",
+    "method": {
+      "mash_temp": [
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 12
+          },
+          "duration": "22"
+        },
+        {
+          "temp": {
+            "unit": "celsius",
+            "value": 16
+          },
+          "duration": "30"
+        }
+      ]
+    }
+  }
+]
+
+
+
+
+

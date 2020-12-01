@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "beer1",
+    "description": "description1",
+    "created": null,
+    "updated": null,
+    "temperatureList": [
+      {
+        "id" : 1,
+        "unit" : "celsius",
+        "value" : 10,
+        "duration" : 10,
+        "created": null,
+        "updated": null
+      }
+    ],
+    "providerBeerDb": {
+      "systemId": "100",
+      "id": 1,
+      "created": null,
+      "updated": null
+    }
+  },
+  {
+    "id": 2,
+    "name": "beer2",
+    "description": "description2",
+    "created": null,
+    "updated": null,
+    "temperatureList": [
+      {
+        "id" : 2,
+        "unit" : "celsius",
+        "value" : 20,
+        "duration" : 20,
+        "created": null,
+        "updated": null
+      }
+    ],
+    "providerBeerDb": {
+      "systemId": "200",
+      "id": 2,
+      "created": null,
+      "updated": null
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "beer2",
+    "description": "description2",
+    "created": null,
+    "updated": null,
+    "temperatureList": [
+      {
+        "id" : 3,
+        "unit" : "celsius",
+        "value" : 20,
+        "duration" : 20,
+        "created": null,
+        "updated": null
+      },
+      {
+        "id" : 4,
+        "unit" : "celsius",
+        "value" : 30,
+        "duration" : 30,
+        "created": null,
+        "updated": null
+      }
+    ],
+    "providerBeerDb": {
+      "systemId": "200",
+      "id": 2,
+      "created": null,
+      "updated": null
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "searchTester",
+    "description": "OnlyOneBeer",
+    "created": null,
+    "updated": null,
+    "temperatureList": [
+      {
+        "id" : 5,
+        "unit" : "celsius",
+        "value" : 10,
+        "duration" : 10,
+        "created": null,
+        "updated": null
+      }
+    ],
+    "providerBeerDb": {
+      "systemId": "100",
+      "id": 5,
+      "created": null,
+      "updated": null
+    }
+  }
+]
+
+
+
+
+
